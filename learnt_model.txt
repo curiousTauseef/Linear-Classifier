@@ -1,0 +1,4 @@
+5 2 3 5
+Iris-setosa Iris-versicolor 0.145797 0.076116 0.349411 -0.415866 -0.584491
+Iris-setosa Iris-virginica 0.410712 0.109922 0.185876 -0.362011 -0.331641
+Iris-versicolor Iris-virginica 1.661144 0.462382 0.600027 -0.861202 -1.239209
