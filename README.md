@@ -1,7 +1,7 @@
 Linear-Classifier
 =================
 
-Implementation of linear classifier learning algorithms.
+Implementation of Linear Classifier learning algorithms.
 
 Algorithms:
 
